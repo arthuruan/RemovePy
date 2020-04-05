@@ -6,7 +6,7 @@ def removeAdor(old, to_remove):
         new_string = new_string.replace(x, '')
     return new_string
 
-folder = open('HistoriaDosIndios.txt', 'r', encoding = 'utf8')
+folder = open('PercyJackson.txt', 'r', encoding = 'utf8')
 
 text = folder.read()
 
